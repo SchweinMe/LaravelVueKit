@@ -1,6 +1,3 @@
-# LaravelVueKit
-Quick Setting Laravel 9 + Vue 3 + TailwindCSS
-
 #COURSE DETAILS {
     Instructor: "SchweinMe" 
     Name: "How Installation Laravel 9 + Vue 3 + TailwindCss + Vite" 

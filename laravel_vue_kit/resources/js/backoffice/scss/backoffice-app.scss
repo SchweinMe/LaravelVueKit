@@ -1,0 +1,35 @@
+@import 'tailwindcss/base';
+
+body {
+    @apply bg-gray-500 p-4 text-white;
+    input {
+        @apply text-gray-600 px-2 py-2 focus:outline-teal-400;
+    }
+}
+
+ul {
+    @apply p-4 bg-gray-600 ;
+    li {
+        @apply text-blue-400 active:text-blue-500;
+    }
+}
+.mb {
+    @apply mb-4;
+    a {
+        @apply text-red-400;
+    }
+}
+.btn {
+    @apply m-2 border border-solid border-white px-4 bg-gray-300 text-black;
+}
+.main-app {
+    @apply p-4 bg-teal-500 border border-solid;
+}
+
+h1 {
+    @apply text-3xl leading-relaxed;
+}
+
+.admin-layout {
+    @apply p-4 bg-gray-600;
+}
